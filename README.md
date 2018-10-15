@@ -46,7 +46,7 @@ The high-level design shown below provides an unified interface for all on-chain
 ![Alt text](/images/byzapi.png?raw=true "Byzantine API Gateway")
 
 # API cheat sheet
-- ** The apikey used is for tests only. If you require a key for industrial-grade calls/low latency please reach out to us with a few bytes on intended purpose. hello@byzanti.ne
+*** The apikey used to illustrate the methods is for test purpose only. If you require a key for industrial-grade calls/low latency please reach out to us with a few bytes on intended purpose at hello@byzanti.ne
 
 ```sh
 // Base API Operations

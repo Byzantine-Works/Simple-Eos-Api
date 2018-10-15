@@ -43,7 +43,7 @@ The high-level design shown below provides an unified interface for all on-chain
 - It uses cryptographic nonce to secure customers from replay attack.
 - The design necessitates customers to aquire an API-KEY/SALT which is a one time excercise. The api-key is then used to fetch nonce for signing write-transactions and transmit the "sig" attribute as shown in curl examples.
 
-![Alt text](https://github.com/Byzantine-Works/EOS-API-Gateway/images/byzapi.png?raw=true "Byzantine API Gateway")
+![Alt text](/images/byzapi.png?raw=true "Byzantine API Gateway")
 
 # API cheat sheet
 - ** The apikey used is for tests only. If you require a key for industrial-grade calls/low latency please reach out to us with a few bytes on intended purpose. hello@byzanti.ne

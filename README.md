@@ -33,8 +33,6 @@ The high-level design shown below provides an unified interface for all on-chain
 # API cheat sheet
 *** The MHH0A3F-5NH4SHS-GEVSWJJ-654P7ZF apikey used to illustrate the methods is for test purpose only. If you require a key for industrial-grade calls/low latency please reach out to us with a few bytes on intended purpose at hello@byzanti.ne
 
-### EOS API Endpoint
-- [API](https://api.byzanti.ne)
 
 ### Curl Samples
 

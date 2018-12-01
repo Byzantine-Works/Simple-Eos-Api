@@ -13,13 +13,13 @@
 - - Get Airdrop/Airgrab Tokens with verifiable hashcodes, precision, contracts
 - - Create Account, (Un)Delegate, Vote, RAM price, Buy/Sell RAM, Refunds, Account history
 - - Transfer across any token with/without scatter
-- - A web embeddable ['stripe' wallet for EOS](https://api.byzanti.ne/wallet), that can be customized to work with QR codes on web, mobile or POS systems for accepting EOS/derivative digital assets
+- - A web embeddable [Payment Terminal for EOS](https://api.byzanti.ne/wallet), that can be customized to work with QR codes on web, mobile or POS systems for accepting EOS/derivative digital assets
 - - Reduces the complexity of rampup on EOS chain and prevents issues like the following:
 - - [EosBetDice hacked using eosio.token transfer exploit](https://www.zdnet.com/article/blockchain-betting-app-mocks-competitor-for-getting-hacked-gets-hacked-four-days-later/)
 
 - - [NewDEX hacked with fake EOS tokens](https://thenextweb.com/hardfork/2018/09/18/eos-hackers-exchange-fake/)
 
-# [EOS 'Stripe' Wallet](some address)
+# [EOS Payment Teminal](https://github.com/Byzantine-Works/EOS-Community/tree/master/eos-payment-terminal)
 
 # Design
 The high-level design shown below provides an unified interface for all on-chain EOS operations.
